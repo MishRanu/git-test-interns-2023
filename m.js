@@ -1,1 +1,2 @@
-console.log("i love zetwerk")
+console.log("Welcome to zetwerk Rocketship 🚀");
+console.log("i love zetwerk");
